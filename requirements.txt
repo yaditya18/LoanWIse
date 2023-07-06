@@ -1,0 +1,6 @@
+Flask==2.3.2
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.2
+scikit_learn==1.2.2
+seaborn==0.12.2
